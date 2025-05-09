@@ -1,0 +1,34 @@
+
+💡 Medium Level (Contoso 1OOK Adaptation)
+
+1️⃣ Write a query to find the second highest sales amount from the Sales table.
+2️⃣ Fetch all customer names from the Customer table that contain the letter “a” exactly twice.
+3️⃣ How do you retrieve only duplicate product names from the Product table?
+4️⃣ Write a query to calculate the running total of sales amount by date from the Sales table.
+5️⃣ Find products in the Product table that are priced above the average price of their category.
+6️⃣ Write a query to find the most frequently purchased product from the Sales table.
+7️⃣ Fetch all sales transactions where the SalesDate is within the last 7 days.
+8️⃣ Write a query to count how many customers share the same geography (city or region).
+9️⃣ How do you fetch the top 3 selling products by total revenue in each state from the Sales and Customer tables?
+🔟 Retrieve products from the Product table that were never sold, using a LEFT JOIN with Sales.
+
+💡 Challenging Level (Contoso 1OOK Adaptation)
+
+1️⃣ Retrieve customers who made their first purchase in the last 6 months, using the Sales and Customer tables.
+2️⃣ How do you pivot the Sales table to convert customer states into columns with total sales revenue as values?
+3️⃣ Write a query to calculate the percentage change in total sales month-over-month from the Sales table.
+4️⃣ Find the median sales revenue per customer from the Sales and Customer tables.
+5️⃣ Fetch all customers who made purchases on three or more consecutive days, using the Sales table.
+6️⃣ Write a query to delete duplicate rows from the Sales table, keeping only one.
+7️⃣ Create a query to calculate the ratio of sales between online and in-store channels.
+8️⃣ How would you implement a recursive query to generate an employee-manager hierarchy from the Employee table?
+9️⃣ Write a query to find gaps in SalesOrderNumber sequence in the Sales table.
+🔟 Split a comma-separated ProductCategory column (if exists) into individual rows using SQL.
+
+💡 Advanced Problem-Solving (Contoso 1OOK Adaptation)
+
+1️⃣ Rank products by total sales amount in descending order for each region, using Sales and Geography.
+2️⃣ Fetch all employees whose salaries fall within the top 10% of their department in the Employee table.
+3️⃣ Identify sales orders placed during business hours (e.g., 9 AM to 6 PM).
+4️⃣ Write a query to get the count of customers active on both weekdays and weekends, using the Sales and Date tables.
+5️⃣ Retrieve customers who made purchases across at least three different product categories.
