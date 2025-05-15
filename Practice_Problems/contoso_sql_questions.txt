@@ -28,7 +28,6 @@
 💡 Advanced Problem-Solving (Contoso 1OOK Adaptation)
 
 1️⃣ Rank products by total sales amount in descending order for each region, using Sales and Geography.
-2️⃣ Fetch all employees whose salaries fall within the top 10% of their department in the Employee table.
-3️⃣ Identify sales orders placed during business hours (e.g., 9 AM to 6 PM).
-4️⃣ Write a query to get the count of customers active on both weekdays and weekends, using the Sales and Date tables.
-5️⃣ Retrieve customers who made purchases across at least three different product categories.
+2️⃣ Fetch all products whose total sales amount falls within the top 10% of their respective product categories.
+3️⃣ Write a query to get the count of customers active on both weekdays and weekends, using the Sales and Date tables.
+4️⃣ Retrieve customers who made purchases across at least three different product categories.
